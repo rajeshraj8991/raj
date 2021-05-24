@@ -9,6 +9,7 @@ public class SpringBootProfilesAnnotationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootProfilesAnnotationApplication.class, args);
+		System.out.println("it is done");
 	}
 
 }
